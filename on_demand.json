@@ -1,1 +1,29 @@
-
+[
+  {
+    "nombre": "BAJOTIERRA",
+    "descripcion": "Música urbana, entrevistas y cultura de subsuelo.",
+    "plataformas": {
+      "spotify": "https://open.spotify.com/show/XXXXXXXX",
+      "ivoox": "https://www.ivoox.com/XXXXXXXX",
+      "youtube": ""
+    }
+  },
+  {
+    "nombre": "FULL OPTION",
+    "descripcion": "Magazine musical con selección de temas y actualidad pop.",
+    "plataformas": {
+      "spotify": "https://open.spotify.com/show/YYYYYYYY",
+      "ivoox": "",
+      "youtube": ""
+    }
+  },
+  {
+    "nombre": "JAMSESSION",
+    "descripcion": "Directos, improvisación y descubrimientos sonoros.",
+    "plataformas": {
+      "spotify": "",
+      "ivoox": "https://www.ivoox.com/ZZZZZZZZ",
+      "youtube": ""
+    }
+  }
+]
