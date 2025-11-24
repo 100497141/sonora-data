@@ -1,1 +1,22 @@
-
+{
+  "martes": [
+    {
+      "hora": "16:00 – 17:00",
+      "programa": "BAJOTIERRA"
+    },
+    {
+      "hora": "17:00 – 18:00",
+      "programa": "FULL OPTION"
+    }
+  ],
+  "jueves": [
+    {
+      "hora": "16:00 – 17:00",
+      "programa": "JAMSESSION"
+    },
+    {
+      "hora": "17:00 – 18:00",
+      "programa": "Especial Sonora"
+    }
+  ]
+}
